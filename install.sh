@@ -1,3 +1,4 @@
+#!/bin/bash
 # node v20.7.0
 
 # # git
